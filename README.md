@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AWord992
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Pytorch
 - 📫 How to reach me ...
 
 <!---
